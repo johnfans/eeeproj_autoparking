@@ -1,0 +1,17 @@
+.\objects\speedctrol.o: SpeedCtrol.c
+.\objects\speedctrol.o: SpeedCtrol.h
+.\objects\speedctrol.o: interface.h
+.\objects\speedctrol.o: .\CMSIS\stm32f10x.h
+.\objects\speedctrol.o: .\CMSIS\core_cm3.h
+.\objects\speedctrol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\speedctrol.o: .\CMSIS\system_stm32f10x.h
+.\objects\speedctrol.o: .\stm32f10x_conf.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\speedctrol.o: .\CMSIS\stm32f10x.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\speedctrol.o: .\StdPeriph_Driver\inc\misc.h
